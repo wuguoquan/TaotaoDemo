@@ -221,6 +221,13 @@
       <version>${mybatis-generator.version}</version>
     </dependency>
 
+    <!-- Mybatis 分页查询 -->
+    <dependency>
+      <groupId>com.github.pagehelper</groupId>
+      <artifactId>pagehelper</artifactId>
+      <version>4.1.6</version>
+    </dependency>
+
     <!-- 导入Mysql数据库链接jar包 -->
     <dependency>
       <groupId>mysql</groupId>
